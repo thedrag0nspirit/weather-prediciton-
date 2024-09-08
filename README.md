@@ -1,2 +1,2 @@
-# weather-prediciton
-Its one of the minor project that i have created during my Diploma .
+# weather-prediction
+It's one of the minor projects I created during my Diploma.
